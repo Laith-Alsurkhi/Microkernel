@@ -1,5 +1,6 @@
 
 Follow these steps to get the project running on your machine:
+
 1.Open the Files: Open all the .cpp files in Visual Studio.
 
 2.Build the Solution: Build the project for the Kernel and all the plug-ins (echo, sum, reverse, etc.).
