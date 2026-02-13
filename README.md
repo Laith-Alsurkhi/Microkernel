@@ -1,9 +1,11 @@
-How to Run it !
 
 Follow these steps to get the project running on your machine:
 1.Open the Files: Open all the .cpp files in Visual Studio.
+
 2.Build the Solution: Build the project for the Kernel and all the plug-ins (echo, sum, reverse, etc.).
+
 3.Check the Output: Ensure all the generated .exe files and the registry_windows.txt are in the same folder.
+
 4.Run the Kernel: Open your terminal, navigate to the folder, and run:
 Kernel-CoreSystem.exe
 
