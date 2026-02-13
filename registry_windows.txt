@@ -1,0 +1,4 @@
+sum.exe
+toupper.exe
+Reverse.exe
+echo.exe
